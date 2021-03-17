@@ -1,0 +1,1 @@
+# AWS-Lambda-to-trigger-email-for-protractor-ui-automation-tests
